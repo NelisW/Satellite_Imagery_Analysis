@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/Data/sundarbans_data/logs
+/code/Pavia_University_Model.h5
